@@ -1,7 +1,7 @@
 #!/bin/bash
 #----------------------------------------------------------------------------------------------#
-#wiffy.sh v0.2 (#0 BETA #6) ~ 2011-03-17                                                      #
-# (C)opyright 2011 - g0tmi1k                                                                   #
+#wiffy.sh v0.2 (#0 BETA #6) ~ 2011-03-17                                                       #
+# (C)opyright 2011 - g0tmi1k  edit by nu11secur1ty                                             #
 #---Important----------------------------------------------------------------------------------#
 #                     *** Do NOT use this for illegal or malicious use ***                     #
 #                By running this, YOU are using this program at YOUR OWN RISK.                 #
