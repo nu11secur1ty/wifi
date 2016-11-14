@@ -1,2 +1,2 @@
 # wifi
-# Modet for Backtrak 4
+# Modified for Backtrack 4
